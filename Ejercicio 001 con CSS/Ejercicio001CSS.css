@@ -1,0 +1,31 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60px;
+}
+
+.hMain {
+    text-decoration: underline;
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+.pPrimary {
+    background-color: rgb(98, 216, 98);
+}
+
+.pSecondary {
+    text-shadow: 5px 5px 10px grey;
+}
+
+#p001 {
+    border: 5px;
+    border-style: solid;
+    border-color: red;
+}
