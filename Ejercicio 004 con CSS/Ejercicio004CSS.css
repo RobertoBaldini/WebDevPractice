@@ -1,0 +1,30 @@
+body {
+    background-image: linear-gradient(to bottom right, white, rgb(134, 191, 255));
+}
+
+h1 {
+    text-align: center;
+}
+
+.hGeneral {
+    text-decoration: underline;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(0, 0, 146, 0.815);
+    text-shadow: 5px 5px 10px grey;
+}
+
+#h001 {
+    text-decoration: double underline;
+    font-size: 50px;
+}
+
+ul {
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+#li001 {
+    border: 10px solid green;
+}
