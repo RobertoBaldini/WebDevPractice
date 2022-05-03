@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://cdn.wallpapersafari.com/98/83/tqzDo5.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    font-size: xx-large;
+}
+
+a {
+    font-size: large;
+}
+
+.txt {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: antiquewhite;
+}
