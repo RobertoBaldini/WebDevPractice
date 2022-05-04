@@ -1,0 +1,22 @@
+body {
+    background-image: url(https://blackgold.sa/wp-content/uploads/2018/02/website-background-images-tile-wallpaper-photo.jpg);
+}
+
+.hGeneral {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(85, 85, 85);
+    font-size: 35px;
+    text-decoration: wavy underline;
+    text-shadow: 3px 3px 5px gray;
+}
+
+#h001 {
+    text-decoration: double underline;
+    text-align: center;
+    font-size: 50px;
+}
+
+.txtGeneral {
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
