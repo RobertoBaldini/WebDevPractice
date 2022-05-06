@@ -1,0 +1,58 @@
+body {
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dbdb4f38-94c9-45d2-bd44-a598d94a4dc0/d4gz4lh-1fc5a06f-dc74-4cc7-bb20-8146e35ee3f6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiZGI0ZjM4LTk0YzktNDVkMi1iZDQ0LWE1OThkOTRhNGRjMFwvZDRnejRsaC0xZmM1YTA2Zi1kYzc0LTRjYzctYmIyMC04MTQ2ZTM1ZWUzZjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nZ9DK7pHdUXRrbU6pLvU2HfJzeUAov47QwCaBzmRDlY);
+}
+
+.general {
+    border: 10px groove white;
+    border-collapse: collapse;
+    font-size: 65px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.teal {
+    color: teal;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.orange {
+    color: orange;
+}
+
+.purple {
+    color: purple;
+}
+
+.olive {
+    color: olive;
+}
+
+.fuchsia {
+    color: fuchsia;
+}
+
+.green {
+    color: green;
+}
+
+#td001 {
+    background-color: white;
+}
+
+#td002 {
+    background-color: red;
+}
+
+#td003 {
+    background-color: green;
+}
+
+#td004 {
+    background-color: blue;
+}
