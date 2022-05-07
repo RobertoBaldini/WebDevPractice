@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://images-cdn.welcomesoftware.com/Zz0zZTliMjQ4MzhlNGExMWViYmJiMjFiZTI2ZWNmN2MzZA==);
+    background-size: cover;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+form {
+    border: 5px groove white;
+    display: inline-block;
+    padding-inline: 20px;
+    background-image: url(https://blackgold.sa/wp-content/uploads/2018/02/website-background-images-tile-wallpaper-photo.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-size: 50px;
+    text-decoration: wavy underline rgb(255, 219, 102);
+}
+
+button {
+    font-size: large;
+    background-color: rgb(255, 219, 102);
+}
